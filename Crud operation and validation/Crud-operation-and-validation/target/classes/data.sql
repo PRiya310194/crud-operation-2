@@ -1,0 +1,1 @@
+insert into User (userId,userName,DateOfBirth,email,phoneNumber,date,time) values ('1','priya','2022-12-31','pk059257@gmail.com','91876543289023','2023-01-23','10:40 pm''c:\\dfnjk');
